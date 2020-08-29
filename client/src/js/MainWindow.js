@@ -22,6 +22,7 @@ const useStyles = makeStyles((theme) => ({
         }
     }
 }));
+}));
 function MainWindow({ startCall, clientId }) {
     const classes = useStyles();
 
@@ -142,3 +143,6 @@ function MainWindow({ startCall, clientId }) {
 
 export default MainWindow;
 
+}
+
+export default MainWindow;
